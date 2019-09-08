@@ -1,0 +1,11 @@
+#Order-submit {
+    position: relative;
+    top: 8vh;
+}
+
+.Order-time {
+    position: relative;
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+    font-size: 25px;
+}
